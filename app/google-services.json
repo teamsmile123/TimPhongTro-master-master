@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904866609390",
+    "firebase_url": "https://timphongtro-master.firebaseio.com",
+    "project_id": "timphongtro-master",
+    "storage_bucket": "timphongtro-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904866609390:android:e2c02092ca34c595",
+        "android_client_info": {
+          "package_name": "example.com.timtro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904866609390-beunhes99mdph87b4se9gcvt37ia266n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.timtro",
+            "certificate_hash": "2253a8df09f088bf154a32a3c85ccc5b621b9e9a"
+          }
+        },
+        {
+          "client_id": "904866609390-9654ki54cm16dg4btdiet825b376fcjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FyOvB8buIgxXFPOA-mtDSoeqKD3dtHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904866609390-9654ki54cm16dg4btdiet825b376fcjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

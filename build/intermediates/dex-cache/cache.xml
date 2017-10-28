@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\linh\Downloads\Compressed\TimPhongTro-master-master\TimPhongTro-master-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\linh\Downloads\Compressed\TimPhongTro-master-master\TimPhongTro-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c34cd6765d7e04ae98f4102fc2ea54143dedb9aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\linh\.android\build-cache\577010b33e34090e1d2ba7e447ed534099ba73d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4421cf56b5402b7fb29a032a3ab195845a3c9ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\linh\.android\build-cache\0e285ec24e39efd25d1d63a21a3d89cbc8c46a46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ee52c24ee60ad7ce2dc25658a9ea6706d22f194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="11ea1b97209f7dbfbf0fb9bbad637140613ede6e">
+        <dex dex="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1eb2274b0ba26d84977122887aa355532f61197d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AdroidWorkSpace\AdroidProject\PT_version6\TimTroVer6\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d5d90472e06e4fd4b29a2e8d32745d689bef9a9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\linh\Downloads\Compressed\TimPhongTro-master-master\TimPhongTro-master-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8489fab52fd7964b471b7f2402c6f8770826ab32">
+        <dex dex="C:\Users\linh\Downloads\Compressed\TimPhongTro-master-master\TimPhongTro-master-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf4903af4ad20e001639975e943b706683868fc8\classes.dex" />
+    </item>
+
+</items>
